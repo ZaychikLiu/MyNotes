@@ -630,15 +630,7 @@
 * Entropy Coding of Unordered Data Structures
 
 * 
-=======
-* Shape and Motion from Image Streams under Orthography: A Factorization Method
   
-* ~~Structure-from-Motion Revisited~~
->>>>>>> 4b9d47a273690a53a242db1f5d3e35048247ae2b
 
-* 
-
-=======
->>>>>>> 1dcf972e001071bf5e0edde20b35a612bcbdd1a1
   
 
