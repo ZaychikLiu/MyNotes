@@ -535,7 +535,7 @@
 
 * Discrete Cosine Transfonn
 
-* Implicit Neural Representations with Periodic Activation Functions
+* ~~Implicit Neural Representations with Periodic Activation Functions~~
 
 * Compositional pattern producing networks: A novel abstraction of development
 
@@ -545,7 +545,7 @@
 
 * Compression with Bayesian Implicit Neural Representations
 
-* Implicit Neural Representations for Image Compression
+* ~~Implicit Neural Representations for Image Compression~~
 
 * Single Image Defocus Deblurring via Implicit Neural Inverse Kernels
 
@@ -629,8 +629,20 @@
 
 * Entropy Coding of Unordered Data Structures
 
+* Occupancy Networks: Learning 3D Reconstruction in Function Space
+  
+* Boosting Neural Representations for Videos with a Conditional Decoder
+  
+* 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos
+  
+* 4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
+  
+* EndoGaussian: Real-time Gaussian Splatting for Dynamic Endoscopic Scene Reconstruction
+  
+* NERV++: An Enhanced Implicit Neural Video Representation
+  
 * 
   
-
+  
   
 
