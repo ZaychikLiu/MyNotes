@@ -527,7 +527,7 @@
 
 * 4D-StOP: Panoptic Segmentation of 4D LiDAR using Spatio-temporal Object Proposal Generation and Aggregation
 
-* ***GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting***
+* ~~***GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting***~~
 
 * ***Splatter a Video: Video Gaussian Representation for Versatile Processing***
 
@@ -640,6 +640,20 @@
 * EndoGaussian: Real-time Gaussian Splatting for Dynamic Endoscopic Scene Reconstruction
   
 * NERV++: An Enhanced Implicit Neural Video Representation
+  
+* T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback
+  
+* VideoLCM: Video Latent Consistency Model
+  
+* Generating 3D-Consistent Videos from Unposed Internet Photos
+  
+* ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation
+  
+* Understanding INT4 Quantization for Transformer Models: Latency Speedup, Composability, and Failure Cases
+  
+* MixConv: Mixed Depthwise Convolutional Kernels
+  
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
   
 * 
   
