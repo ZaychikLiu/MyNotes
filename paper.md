@@ -655,6 +655,90 @@
   
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
   
+* Handbook of image and video processing
+  
+* Layered neural atlases for consistent video editing.
+  
+* Consistent video depth estimation.
+  
+* Representing moving images with layers
+  
+* Deformable sprites for unsupervised video decomposition
+  
+* Space-time correspondence as a contrastive random walk.
+  
+* Codef: Content deformation fields for temporally consistent video processing.
+  
+* Gendef: Learning generative deformation field for video generation.
+  
+* Mft: Long-term tracking of every pixel
+  
+* Layered neural rendering for retiming people in video.
+  
+* Inve: Interactive neural video editing.
+  
+* Tracking everything everywhere all at once
+  
+* Raft: Recurrent all-pairs field transforms for optical flow
+  
+* Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+  
+* Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data
+  
+* Diffusion models trained with large data are transferable visual models
+  
+* Layered Neural Atlases for Consistent Video Editing
+  
+* Deformable Sprites for Unsupervised Video Decomposition
+  
+* High-Resolution Image Synthesis with Latent Diffusion Models
+  
+* GenDeF: Learning Generative Deformation Field for Video Generation
+  
+* CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
+  
+* Hashing Neural Video Decomposition with Multiplicative Residuals in Space-Time
+  
+* MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers
+  
+* VidToMe: Video Token Merging for Zero-Shot Video Editing
+  
+* Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories
+  
+* CoTracker: It is Better to Track Together
+  
+* TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement
+  
+* MFT: Long-Term Tracking of Every Pixel
+  
+* 4d gaussian splatting for real-time dynamic scene rendering.
+  
+* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis
+  
+* Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
+  
+* SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
+  
+* 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos
+  
+* Neural trajectory fields for dynamic novel view synthesis.
+  
+* Dynibar: Neural dynamic image-based rendering.
+  
+* Dynmf: Neural motion factorization for real-time dynamic view synthesis with 3d gaussian splatting.
+  
+* Gaussian-flow: 4d reconstruction with dynamic 3d gaussian particle.
+  
+* Trajectory space: A dual representation for nonrigid structure from motion.
+  
+* q-bernstein polynomials and bézier curves.
+  
+* B-spline curves and surfaces.
+  
+* Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation
+  
+* Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer
+  
 * 
   
   
