@@ -739,6 +739,10 @@
   
 * Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer
   
+* Particle video revisited: Tracking through occlusions using point trajectories.
+  
+* Density estimation using Real NVP.
+  
 * 
   
   
