@@ -133,7 +133,7 @@
 * DarkGS: Learning Neural Illumination and 3D Gaussians Relighting for Robotic Exploration in the Dark
 * TOGS: Gaussian Splatting with Temporal Opacity Offset for Real-Time 4D DSA Rendering
 * Dual-Camera Smooth Zoom on Mobile Phones
-* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis
+* ~~Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis~~
 * CoGS: Controllable Gaussian Splatting
 * GGRt: Towards Pose-free Generalizable 3D Gaussian Splatting in Real-time
 * Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis
@@ -451,8 +451,6 @@
   
 * Layered Neural Atlases for Consistent Video Editing
   
-* High-Resolution Image Synthesis with Latent Diffusion Models
-  
 * GenDeF: Learning Generative Deformation Field for Video Generation
   
 * CoDeF: Content Deformation Fields for Temporally Consistent Video Processing
@@ -471,7 +469,7 @@
   
 * MFT: Long-Term Tracking of Every Pixel
   
-* Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis
+* ~~Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis~~
   
 * SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
   
@@ -513,11 +511,111 @@
   
 * Make-A-Video: Text-to-Video Generation without Text-Video Data
   
-* LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis
+* ~~LetsTalk: Latent Diffusion Transformer for Talking Video Synthesis~~
   
 * Deceptive-NeRF/3DGS: Diffusion-Generated Pseudo-Observations for High-Quality Sparse-View Reconstruction
   
 * DiffGS: Functional Gaussian Splatting Diffusion
+  
+* HexPlane: A Fast Representation for Dynamic Scenes
+  
+* Suds: Scalable urban dynamic scenes
+  
+* Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis
+  
+* BANMo: Building Animatable 3D Neural Models from Many Casual Videos
+  
+* Humanrf: High-fidelity neural radiance fields for humans in motion.
+  
+* Tava: Template-free animatable volumetric actors.
+  
+* ~~High-Resolution Image Synthesis with Latent Diffusion Models~~
+  
+* Scaling Rectified Flow Transformers for High-Resolution Image Synthesis
+  
+* PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis
+  
+* Scalable Diffusion Models with Transformers
+  
+* All are Worth Words: A ViT Backbone for Diffusion Models
+  
+* Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting
+  
+* ~~Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections~~
+  
+* ~~**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**~~
+  
+* ~~Denoising diffusion probabilistic models.~~
+  
+* Taming Transformers for High-Resolution Image Synthesis
+  
+* ~~The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks~~
+  
+* A Survey on Video Diffusion Models
+  
+* Diffusion Models and Representation Learning: A Survey
+  
+* Diffusion Models: A Comprehensive Survey of Methods and Applications
+  
+* From Sora What We Can See: A Survey of Text-to-Video Generation
+  
+*  VDT: General-purpose Video Diffusion Transformers via Mask Modeling
+  
+* Latte: Latent Diffusion Transformer for Video Generation
+  
+* Scalable Diffusion Models with Transformers
+  
+* VideoCrafter1: Open Diffusion Models for High-Quality Video Generation
+  
+* AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning
+  
+* VideoComposer: Compositional Video Synthesis with Motion Controllability
+  
+* Imagen Video: High Definition Video Generation with Diffusion Models
+  
+* Diffusion Models Beat GANs on Image Synthesis
+  
+* AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning
+  
+* Video Diffusion Models
+  
+* Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+  
+* Neural Network Parameter Diffusion
+  
+* WonderWorld: Interactive 3D Scene Generation from a Single Image
+  
+* Surfel-based Gaussian Inverse Rendering for Fast and Relightable Dynamic Human Reconstruction from Monocular Videos
+  
+* Watch It Move: Unsupervised Discovery of 3D Joints for Re-Posing of Articulated Objects
+  
+* Adding Conditional Control to Text-to-Image Diffusion Models
+  
+* IC-light
+  
+* Tutorial on Variational Autoencoders
+  
+* Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction
+  
+* HART: Efficient Visual Generation with Hybrid Autoregressive Transformer
+  
+* SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+  
+* VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation
+  
+* SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformers
+  
+* DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models
+  
+* DUSt3R: Geometric 3D Vision Made Easy
+  
+* MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification
+  
+* Stopthepop: Sorted gaussian splatting for view-consistent real-time rendering.
+  
+* Rade-gs: Rasterizing depth in gaussian splatting.
+  
+* Pgsr: Planar-based gaussian splatting for efficient and high-fidelity surface reconstruction.
   
 * 
   
