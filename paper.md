@@ -595,7 +595,7 @@
   
 * Tutorial on Variational Autoencoders
   
-* Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction
+* ~~Quadratic Gaussian Splatting for Efficient and Detailed Surface Reconstruction~~
   
 * HART: Efficient Visual Generation with Hybrid Autoregressive Transformer
   
@@ -616,6 +616,32 @@
 * Rade-gs: Rasterizing depth in gaussian splatting.
   
 * Pgsr: Planar-based gaussian splatting for efficient and high-fidelity surface reconstruction.
+  
+* MarDini: Masked Autoregressive Diffusion for Video Generation at Scale
+  
+* The Scene Language: Representing Scenes with Programs, Words, and Embeddings
+  
+* Autoregressive Image Generation without Vector Quantization
+  
+* PreF3R: Pose-Free Feed-Forward 3D Gaussian Splatting from Variable-length Image Sequence
+  
+* SAMPart3D: Segment Any Part in 3D Objects
+  
+* LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias
+  
+* Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think
+  
+* EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis
+  
+* GStex: Per-Primitive Texturing of 2D Gaussian Splatting for Decoupled Appearance and Geometry Modeling
+  
+* CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets
+  
+* Image Neural Field Diffusion Models
+  
+* Neural Gaussian Scale-Space Fields
+  
+* NICE: Non-linear Independent Components Estimation
   
 * 
   
