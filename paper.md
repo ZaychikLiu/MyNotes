@@ -643,6 +643,70 @@
   
 * NICE: Non-linear Independent Components Estimation
   
+* ~~AlphaPruning: Using Heavy-Tailed Self Regularization Theory for Improved Layer-wise Pruning of Large Language Models~~
+  
+* Scalable diffusion models with transformers
+  
+* ~~Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models~~
+  
+* Motion Prompting: Controlling Video Generation with Motion Trajectories
+  
+* A Survey on Video Diffusion Models
+  
+* Video Diffusion Models
+  
+* Make-A-Video: Text-to-Video Generation without Text-Video Data
+  
+* Imagen Video: High Definition Video Generation with Diffusion Models
+  
+* Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models
+  
+* Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation
+  
+* Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation
+  
+* LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models
+  
+* Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation
+  
+* SimDA: Simple Diffusion Adapter for Efficient Video Generation
+  
+* AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning
+  
+* VideoCrafter1: Open Diffusion Models for High-Quality Video Generation
+  
+* VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models
+  
+* Make Pixels Dance: High-Dynamic Video Generation
+  
+* Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning
+  
+* MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation
+  
+* Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets
+  
+* LaMD: Latent Motion Diffusion for Video Generation
+  
+* Video Probabilistic Diffusion Models in Projected Latent Space
+  
+* Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition
+  
+* VDT: General-purpose Video Diffusion Transformers via Mask Modeling
+  
+* Latte: Latent Diffusion Transformer for Video Generation
+  
+* Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with LLMs
+  
+* TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement
+  
+* Generative Image Dynamics
+  
+* Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold
+  
+* Motion Prompting: Controlling Video Generation with Motion Trajectories
+  
+* SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
+  
 * 
   
   
