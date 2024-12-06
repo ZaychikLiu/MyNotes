@@ -651,21 +651,21 @@
   
 * Motion Prompting: Controlling Video Generation with Motion Trajectories
   
-* A Survey on Video Diffusion Models
+* ~~A Survey on Video Diffusion Models~~
   
-* Video Diffusion Models
+* ~~**Video Diffusion Models**~~
   
-* Make-A-Video: Text-to-Video Generation without Text-Video Data
+* ~~**Make-A-Video: Text-to-Video Generation without Text-Video Data**~~
   
-* Imagen Video: High Definition Video Generation with Diffusion Models
+* ~~**Imagen Video: High Definition Video Generation with Diffusion Models**~~
   
-* Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models
+* ~~**Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models**~~
   
-* Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation
+* ~~Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation~~
   
-* Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation
+* ~~**Reuse and Diffuse: Iterative Denoising for Text-to-Video Generation**~~
   
-* LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models
+* ~~LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models~~
   
 * Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video Generation
   
@@ -693,7 +693,7 @@
   
 * VDT: General-purpose Video Diffusion Transformers via Mask Modeling
   
-* Latte: Latent Diffusion Transformer for Video Generation
+* ~~**Latte: Latent Diffusion Transformer for Video Generation**~~
   
 * Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with LLMs
   
@@ -707,7 +707,15 @@
   
 * SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
   
-* 
+* REDUCIO! Generating 1024×1024 Video within 16 Seconds using Extremely Compressed Motion Latents
+  
+* DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis
+  
+* InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation
+  
+* Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition
+  
+* Pixart-α: Fast training of diffusion transformer for photorealistic text-to-image synthesis.
   
   
   
