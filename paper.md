@@ -707,7 +707,7 @@
   
 * SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction
   
-* REDUCIO! Generating 1024×1024 Video within 16 Seconds using Extremely Compressed Motion Latents
+* ~~REDUCIO! Generating 1024×1024 Video within 16 Seconds using Extremely Compressed Motion Latents~~
   
 * DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis
   
@@ -716,6 +716,12 @@
 * Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition
   
 * Pixart-α: Fast training of diffusion transformer for photorealistic text-to-image synthesis.
+  
+* ~~**Learning Continuous Image Representation with Local Implicit Image Function**~~
+  
+* **FeatUp: A Model-Agnostic Framework for Features at Any Resolution**
+  
+* 
   
   
   
