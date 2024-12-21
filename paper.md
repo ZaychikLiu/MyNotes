@@ -721,6 +721,32 @@
   
 * **FeatUp: A Model-Agnostic Framework for Features at Any Resolution**
   
+* Ref-GS: Directional Factorization for 2D Gaussian Splatting
+  
+* GS-ID: Illumination Decomposition on Gaussian Splatting via Diffusion Prior and Parametric Light Source Optimization
+  
+* 3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes
+  
+* Feat2GS: Probing Visual Foundation Models with Gaussian Splatting
+  
+* MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field
+  
+* Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps
+  
+* Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer
+  
+* LRM: Large Reconstruction Model for Single Image to 3D
+  
+* CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner
+  
+* 3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models
+  
+* CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets
+  
+* You See it, You Got it: Learning 3D Creation on Pose-Free Videos at Scale
+  
+* Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model
+  
 * 
   
   
