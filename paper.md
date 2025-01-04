@@ -747,6 +747,20 @@
   
 * Identifying and Solving Conditional Image Leakage in Image-to-Video Diffusion Model
   
+* Evaluating Multiview Object Consistency in Humans and Image Models
+  
+* MeshArt: Generating Articulated Meshes with Structure-guided Transformers
+  
+* Flow Matching for Generative Modeling
+  
+* Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields
+  
+* Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale
+  
+* Structured 3D Latents for Scalable and Versatile 3D Generation
+  
+* LEARNING INTERACTIVE REAL-WORLD SIMULATORS
+  
 * 
   
   
